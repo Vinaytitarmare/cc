@@ -3,7 +3,7 @@
     const teamMembers = [
     {
       name: "Satvik Yewale",
-      role: "Polyglot Dev",
+      role: "Polyglot and Backend Dev",
       description: "Expert in blockchain development and smart contracts.",
       image: "/images/1.jpg",
       linkedin: "https://linkedin.com/in/"
