@@ -1,5 +1,5 @@
 <script>
-    import Navbar from "../routes/navbar/+page.svelte"
+    import Navbar from "../navbar/+page.svelte"
     let selected=1;
 </script>
 
