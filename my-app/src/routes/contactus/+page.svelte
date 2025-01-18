@@ -5,28 +5,28 @@
       name: "Satvik Yewale",
       role: "Polyglot Dev",
       description: "Expert in blockchain development and smart contracts.",
-      image: "../../static/images/1.jpg",
+      image: "/images/1.jpg",
       linkedin: "https://linkedin.com/in/"
     },
     {
       name: "Zishan Deshmukh",
       role: "Full Stack Dev",
       description: "Focused on intuitive front-end interfaces and seamless full-stack integration.",
-      image: "2.jpg",
+      image: "/images/2.jpg",
       linkedin: "https://linkedin.com/in/"
     },
     {
       name: "Vinay Titarmare",
       role: "Frontend Dev",
       description: "Specialist in database optimization and API design.",
-      image: "3.png",
+      image: "/images/3.png",
       linkedin: "https://www.linkedin.com/in//"
     },
     {
       name: "Uruj Shaikh",
       role: "AI/ML Dev",
       description: "Experienced in smart contracts and Web3 integration.",
-      image: "4.jpg", 
+      image: "/images/4.jpg", 
       linkedin: "https://linkedin.com/in/"
     }
   ];

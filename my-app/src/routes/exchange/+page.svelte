@@ -2,10 +2,10 @@
     import Navbar from "../navbar/+page.svelte";
     let selected=2;
     let items = [
-    { id: 1, name: "Charles corp.", type: "Carbon Credit", price: 0.587040, quantity: 48920, expires: "Jan 10, 2026", imgSrc: "image1.jpg" },
-    { id: 2, name: "infobytes", type: "Carbon Credit", price: 0.587040, quantity: 48920, expires: "Jan 8, 2026", imgSrc: "image2.jpg" },
-    { id: 3, name: "Fusion Technologies", type: "Carbon Credit", price: 0.587040, quantity: 48920, expires: "Jan 13, 2026", imgSrc: "image3.jpg" },
-    { id: 4, name: "infrastructure", type: "Carbon Credit", price: 0.489200, quantity: 48920, expires: "Jan 14, 2026", imgSrc: "image4.jpg" }
+    { id: 1, name: "Charles corp.", type: "Carbon Credit", price: 0.587040, quantity: 48920, expires: "Jan 10, 2026", imgSrc: "/images/f1.png" },
+    { id: 2, name: "infobytes", type: "Carbon Credit", price: 0.587040, quantity: 48920, expires: "Jan 8, 2026", imgSrc: "/images/f2.png" },
+    { id: 3, name: "Fusion Technologies", type: "Carbon Credit", price: 0.587040, quantity: 48920, expires: "Jan 13, 2026", imgSrc: "/images/f3.png" },
+    { id: 4, name: "infrastructure", type: "Carbon Credit", price: 0.489200, quantity: 48920, expires: "Jan 14, 2026", imgSrc: "/images/f1.png" }
   ];
 
   let dropdownOpen = false;
